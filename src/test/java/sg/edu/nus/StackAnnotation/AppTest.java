@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
-		//assertTrue( false );//noted,ver:added to test fail on development branch!!!
+        //assertTrue( true );
+		assertTrue( false );//noted,ver:added to test fail on development branch!!!
     }
 }
